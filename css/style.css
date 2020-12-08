@@ -468,6 +468,10 @@ header {
   padding: 0;
 }
 
+.join .socials-link {
+  color: var(--primary-bg-color);
+}
+
 /* Portfolio */
 
 .portfolio {
